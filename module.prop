@@ -1,6 +1,6 @@
 id=replaceorangepb
 name=replace orange_fr.pb file
-version=v1.4
-versionCode=14
+version=v1.5
+versionCode=15
 author=apernouille
-description=replace orange_fr.pb file
+description=replace orange_fr.pb file and update apn settings

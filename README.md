@@ -17,5 +17,11 @@ While waiting for Orange to fix the problem one day, it is possible to fix it ou
 2. Change Pixel 3 IMEI to a Orange VoLTE/VoWiFi whitelisted phone IMEI using [this guide](https://gist.github.com/uragiristereo/7668e067e3b0525d6e4d4b12d9f71344).
 3. Enjoy 😁
 ## Additional information
+### Other benefits
 This module can also be used to simply update your carrier settings for another reason and on another phone model. For example, I have seen a significant improvement in network connectivity on my Pixel 3 XL since installing this module.
+### Other devices
 I don't guarantee it will work on other models than the Google Pixel since the operator configuration file was extracted from a Google Pixel 7 Pro image.
+### Tested on
+- Stock (Rooted) : ✅ Working 
+- Pixel Experience (Official) : ❌ Not working, see : https://github.com/PixelExperience/android-issues/issues/5286
+

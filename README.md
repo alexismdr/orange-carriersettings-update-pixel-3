@@ -24,4 +24,5 @@ I don't guarantee it will work on other models than the Google Pixel since the o
 ### Tested on
 - Stock (Rooted) : ✅ Working 
 - Pixel Experience (Official) : ❌ Not working, see : https://github.com/PixelExperience/android-issues/issues/5286
+- PixelBuilds (Unity) : ❌ Not working
 

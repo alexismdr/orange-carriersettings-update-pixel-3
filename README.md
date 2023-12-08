@@ -22,7 +22,12 @@ This module can also be used to simply update your carrier settings for another 
 ### Other devices
 I don't guarantee it will work on other models than the Google Pixel since the operator configuration file was extracted from a Google Pixel 7 Pro image.
 ### Tested on
-- Stock (Rooted) : ✅ Working 
-- Pixel Experience (Official) : ❌ Not working, see : https://github.com/PixelExperience/android-issues/issues/5286
-- PixelBuilds (Unity) : ❌ Not working
-
+- Stock (Rooted) :
+  - VoLTE : ✅ Working
+  - VoWiFi : ✅ Working
+- Pixel Experience (Official, Android 13) :
+  - VoLTE : ✅ Working
+  - VoWiFi : ❌ Not working, see : https://github.com/PixelExperience/android-issues/issues/5286
+- PixelBuilds (Unity, Android 14) :
+  - VoLTE : ✅ Working
+  - VoWiFi : ❌ Not working (crosshatch maintainer is aware of the issue and will try to fix it)

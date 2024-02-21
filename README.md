@@ -28,6 +28,6 @@ I don't guarantee it will work on other models than the Google Pixel since the o
 - Pixel Experience (Official, Android 13) :
   - VoLTE : ✅ Working
   - VoWiFi : ❌ Not working, see : https://github.com/PixelExperience/android-issues/issues/5286
-- PixelBuilds (Unity, Android 14) :
+- PixelBuilds (Unity, Android 14, February Patch) :
   - VoLTE : ✅ Working
-  - VoWiFi : ❌ Not working (crosshatch maintainer is aware of the issue and will try to fix it)
+  - VoWiFi : ✅ Working

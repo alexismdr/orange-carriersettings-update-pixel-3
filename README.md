@@ -29,5 +29,7 @@ I don't guarantee it will work on other models than the Google Pixel since the o
   - VoLTE : ✅ Working
   - VoWiFi : ❌ Not working, see : https://github.com/PixelExperience/android-issues/issues/5286
 - PixelBuilds (Unity, Android 14, February Patch) :
-  - VoLTE : ✅ Working
-  - VoWiFi : ✅ Working
+  - VoLTE : ✅ Working*
+  - VoWiFi : ✅ Working*
+
+**No need to install the magisk module, I've included the changes in the ROM*

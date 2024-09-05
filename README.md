@@ -14,7 +14,7 @@ While waiting for Orange to fix the problem one day, it is possible to fix it ou
 - A [Orange VoLTE/VoWiFi whitelisted phone](https://reseaux.orange.fr/nos-reseaux/internet-fixe/appels-wifi) IMEI number
 ### Steps
 1. Install latest module release from this repository.
-2. Change Pixel 3 IMEI to a Orange VoLTE/VoWiFi whitelisted phone IMEI using [this guide](https://gist.github.com/uragiristereo/7668e067e3b0525d6e4d4b12d9f71344).
+2. Change Pixel 3 IMEI to a Orange VoLTE/VoWiFi whitelisted phone IMEI using [this guide](https://gist.github.com/Proxy13/91e9695eb1ae67950118a1673a27932b).
 3. Enjoy 😁
 ## Additional information
 ### Other benefits
